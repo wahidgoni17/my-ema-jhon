@@ -33,6 +33,7 @@
 
 .form-control input {
     background-color: white;
+    color: black;
     width: 415px;
     height: 55px;
     border: 1px solid #95A0A7;
